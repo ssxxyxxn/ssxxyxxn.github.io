@@ -1,21 +1,21 @@
 ---
-title: "[포스팅 예시] 이곳에 제목을 입력하세요"
-excerpt: "본문의 주요 내용을 여기에 입력하세요"
+title: "[Diary] 깃허브 첫 글!"
+excerpt: "깃허브 첫 글!"
 
 categories:
-  - Categories1
+  - Diary
 tags:
-  - [tag1, tag2]
+  - [Diary]
 
-permalink: /categories1/post-name-here/
+permalink: /categories1/diary-230615/
 
-toc: true
+toc: false
 toc_sticky: true
 
-date: 2020-05-21
-last_modified_at: 2021-10-09
+date: 2023-06-15
+last_modified_at: 2023-06-15
 ---
 
 ## 🦥 본문
 
-본문은 여기에 ...
+Hi! ㅎㅎㅎㅎㅎ
