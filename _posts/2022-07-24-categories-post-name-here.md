@@ -7,7 +7,7 @@ categories:
 tags:
   - [Diary]
 
-permalink: /categories1/diary-230615/
+permalink: /diary/230615/
 
 toc: false
 toc_sticky: true
@@ -16,6 +16,6 @@ date: 2023-06-15
 last_modified_at: 2023-06-15
 ---
 
-## 🦥 본문
 
 Hi! ㅎㅎㅎㅎㅎ
+드디어 깃허브 블로그 생성 후 첫 글 작성

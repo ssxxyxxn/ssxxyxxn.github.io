@@ -1,9 +1,9 @@
 ---
-title: "Diary"
+title: "DB"
 layout: category
-permalink: /categories/categories6/
+permalink: /categories/DB/
 author_profile: true
-taxonomy: Categories6
+taxonomy: DB
 sidebar:
   nav: "categories"
 ---
