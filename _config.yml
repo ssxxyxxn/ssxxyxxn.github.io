@@ -105,9 +105,9 @@ author:
   # email            : "youremailhere@xxxxxx.com"
 
   links: # 사이트 링크
-#     - label: "Email"
-#       icon: "fas fa-fw fa-envelope-square"
-#       # url: "mailto:your.name@email.com"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+       url: "mailto:hansy9509@gmail.com"
 #     - label: "Website"
 #       icon: "fas fa-fw fa-link"
 #       # url: "https://your-website.com"
@@ -117,12 +117,12 @@ author:
 #     - label: "Facebook"
 #       icon: "fab fa-fw fa-facebook-square"
 #       # url: "https://facebook.com/"
-#     - label: "GitHub"
-#       icon: "fab fa-fw fa-github"
-#       url: "https://github.com/"
-#     - label: "Instagram"
-#       icon: "fab fa-fw fa-instagram"
-#       url: "https://www.instagram.com/"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/ssxxyxxn"
+     - label: "Instagram"
+       icon: "fab fa-fw fa-instagram"
+       url: "https://www.instagram.com/ssxxyxxn"
 
 # Site Footer
 footer:
@@ -135,6 +135,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
+      url: "https://github.com/ssxxyxxn"
       # url:
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
@@ -144,8 +145,8 @@ footer:
       # url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: instagram.com/ssxxyxxn
-
+      url: "https://www.instagram.com/ssxxyxxn"
+      
 # Reading Files
 include:
   - .htaccess
