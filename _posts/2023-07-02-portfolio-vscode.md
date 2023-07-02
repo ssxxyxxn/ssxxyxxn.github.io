@@ -55,7 +55,7 @@ HTML과 CSS 창 두 개를 동시에 켜놓고 작업을 할텐데,
 그럴 때 class명이나 이런 것들을 서로 연동시켜서 바로바로 선택할 수 있게 도와주는 프로그램.
 
 ## HTML CSS Support
-6번과 같은 기능!
+HTML to CSS autocompletion과 같은 기능!
 
 ## Auto Rename Tag
 태그로 감쌀 때 한 번만 작성하면 뒤에 태그까지 같이 작성되는 아주 편리한 프로그램이당!
