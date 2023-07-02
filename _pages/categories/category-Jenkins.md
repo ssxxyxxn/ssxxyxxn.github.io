@@ -1,7 +1,7 @@
 ---
 title: "Jenkins"
 layout: category
-permalink: /categories/jenkins/
+permalink: /deploy/jenkins/
 author_profile: true
 taxonomy: Jenkins
 sidebar:

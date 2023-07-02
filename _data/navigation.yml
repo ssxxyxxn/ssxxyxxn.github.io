@@ -18,18 +18,28 @@ main:
 # sidebar navigation (categories)
 # 2022.02.15 sidebar update : simple ver.
 categories:
-  - title: "Java"
-    url: /categories/java/
-  - title: "DB"
-    url: /categories/DB/
-  - title: "Algorithm"
-    url: /categories/algorithm/
-  - title: "Web"
-    url: /categories/web/
-  - title: "Jenkins"
-    url: /categories/jenkins/
-  - title: "Git"
-    url: /categories/git/
+  - title: "Project"
+    children:
+    - title: "Portfolio"
+      url: /project/portfolio
+  - title: "Coding Test"
+    children:
+    - title: "Programmers"
+      url: /coding_test/programmers
+  - title: "Deploy"
+    children:     
+    - title: "Jenkins"
+      url: /deploy/jenkins/
+    - title: "Git"
+      url: /deploy/git/
   - title: "Diary"
     url: /categories/diary/
 
+  # - title: "Java"
+  #   url: /categories/java/
+  # - title: "DB"
+  #   url: /categories/DB/
+  # - title: "Algorithm"
+  #   url: /categories/algorithm/
+  # - title: "Web"
+  #   url: /categories/web/

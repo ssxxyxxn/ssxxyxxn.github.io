@@ -1,9 +1,9 @@
 ---
-title: "Git"
+title: "Portfolio"
 layout: category
-permalink: /deploy/git/
+permalink: /project/portfolio/
 author_profile: true
-taxonomy: Git
+taxonomy: Portfolio
 sidebar:
   nav: "categories"
 ---

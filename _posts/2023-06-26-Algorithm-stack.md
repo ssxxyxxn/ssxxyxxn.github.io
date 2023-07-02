@@ -1,13 +1,13 @@
 ---
-title: "[Algorithm] Stack 클래스 사용법"
+title: "[JAVA] Stack 클래스 사용법"
 excerpt: "프로그래머스 lv2 12973. 짝지어 제거하기"
 
 categories:
-  - Algorithm
+  - Programmers
 tags:
-  - [Algorithm]
+  - [Programmers]
 
-permalink: /algorithm/stack/
+permalink: /how_to_use_stack/
 
 toc: true
 toc_sticky: true
