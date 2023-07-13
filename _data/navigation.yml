@@ -32,6 +32,8 @@ categories:
       url: /deploy/jenkins/
     - title: "Git"
       url: /deploy/git/
+    - title: "ETC"
+      url: /deploy/etc/
   - title: "Diary"
     url: /categories/diary/
 
