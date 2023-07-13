@@ -1,9 +1,9 @@
 ---
-title: "Diary"
+title: "Interview"
 layout: category
-permalink: /diary/
+permalink: /interview/
 author_profile: true
-taxonomy: Diary
+taxonomy: Interview
 sidebar:
   nav: "categories"
 ---

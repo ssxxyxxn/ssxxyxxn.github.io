@@ -35,7 +35,9 @@ categories:
     - title: "ETC"
       url: /deploy/etc/
   - title: "Diary"
-    url: /categories/diary/
+    url: /diary/
+  - title: "Interview"
+    url: /interview/
 
   # - title: "Java"
   #   url: /categories/java/
