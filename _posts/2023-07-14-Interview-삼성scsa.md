@@ -9,7 +9,7 @@ tags:
 
 permalink: /samsung_scsa_interview
 
-toc: false
+toc: true
 toc_sticky: true
 
 date: 2023-07-14
