@@ -25,7 +25,7 @@ last_modified_at: 2023-07-13
 SELECT * FROM DBA_DIRECTORIES
 ```
 
-![stack](/assets/images/posts_img/dump/Untitled.png)
+![stack](/assets/images/posts_img/ETC/db_dump/Untitled.png)
 
 DIRECTORY_NAME = ATASSET_DIR
 
@@ -203,7 +203,7 @@ cd /var/log
 tail -f cron
 ```
 
-![stack](/assets/images/posts_img/dump/Untitled (1).png)
+![stack](/assets/images/posts_img/ETC/db_dump/Untitled (1).png)
 
 
 - - -

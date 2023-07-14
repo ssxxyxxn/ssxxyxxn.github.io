@@ -27,7 +27,7 @@ last_modified_at: 2023-07-02
 
 # Git flow
 
-![gitflow.png](/assets/images/posts_img/gitbranch/gitflow.png)
+![gitflow.png](/assets/images/posts_img/git/git_branch/gitflow.png)
 
 Git flow는 Vincent Driessen이 2010년에 제안한 Branch Model을 기반으로 만들어졌으며 **현재는 많은 기업에서 표준으로 사용하는 브랜치 전략**이다.
 
@@ -74,7 +74,7 @@ Git flow는 Vincent Driessen이 2010년에 제안한 Branch Model을 기반으�
 
 ## Git flow 흐름
 
-![gitflow 브랜치 전략 예시.png](/assets/images/posts_img/gitbranch/gitflow 브랜치 전략 예시.png)
+![gitflow 브랜치 전략 예시.png](/assets/images/posts_img/git/git_branch/gitflow 브랜치 전략 예시.png)
 
 ### 신규 기능 개발
 
@@ -95,7 +95,7 @@ Git flow는 Vincent Driessen이 2010년에 제안한 Branch Model을 기반으�
 
 # Github flow
 
-![github flow.png](/assets/images/posts_img/gitbranch/github flow.png)
+![github flow.png](/assets/images/posts_img/git/git_branch/github flow.png)
 
 1. Git flow가 Github에서 사용하기에는 복잡하다고 나온 브랜치 전략이다.
 2. master 브랜치를 중심으로 운영되며, 기능 개발(feature)/버그 수정(hotfix) 등의 작업용 브랜치를 구분하지 않는 단순한 구조이다.
@@ -114,11 +114,11 @@ Git flow는 Vincent Driessen이 2010년에 제안한 Branch Model을 기반으�
 
 ## pre-production 브랜치가 없는 전략
 
-![gitlab flow1.png](/assets/images/posts_img/gitbranch/gitlab flow1.png)
+![gitlab flow1.png](/assets/images/posts_img/git/git_branch/gitlab flow1.png)
 
 ## pre-production 브랜치를 두어 staging 단계를 가지는 전략
 
-![gitlab flow.png](/assets/images/posts_img/gitbranch/gitlab flow.png)
+![gitlab flow.png](/assets/images/posts_img/git/git_branch/gitlab flow.png)
 
 Github flow는 너무 간단해서 배포, 릴리즈 등의 조금 복잡한 이슈를 보완하기 위해 나온 전략입니다.
 

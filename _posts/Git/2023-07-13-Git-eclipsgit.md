@@ -19,7 +19,7 @@ last_modified_at: 2023-07-13
 
 ## 1. GitLab
 
-![Untitled](/assets/images/posts_img/eclipsgit/Untitled.png)
+![Untitled](/assets/images/posts_img/Git/how_to_use_git/Untitled.png)
 
 - Clone 클릭 후 Https 주소 복사
 
@@ -27,12 +27,12 @@ last_modified_at: 2023-07-13
 
 - Window > Show View > Other : Git 검색 후 Git Repositories, Git Staging 탭 생성
     
-    ![Untitled2](/assets/images/posts_img/eclipsgit/Untitled (2).png)
+    ![Untitled2](/assets/images/posts_img/Git/how_to_use_git/Untitled (2).png)
     
 - Git Repositories 탭에서 우클릭 후 [Paste Repository Path or URI] 클릭
 - 생성된 프로젝트 우클릭 후 [Import Projects…] 클릭 후 import 해오기
     
-    ![Untitled](/assets/images/posts_img/eclipsgit/Untitled (3).png)
+    ![Untitled](/assets/images/posts_img/git/how_to_use_git/Untitled (3).png)
     
 
 # Local Branch 생성 후 개발
@@ -44,20 +44,20 @@ last_modified_at: 2023-07-13
 
 1. Git Repositories 탭에서 Local 클릭 > Switch To > New Branch… 클릭
     
-    ![Untitled](/assets/images/posts_img/eclipsgit/Untitled (4).png)
+    ![Untitled](/assets/images/posts_img/git/how_to_use_git/Untitled (4).png)
     
 2. 원격 저장소에 있는 master를 기준으로 브랜치를 생성한다.
     - Select… 클릭
     
-    ![Untitled](/assets/images/posts_img/eclipsgit/Untitled (5).png)
+    ![Untitled](/assets/images/posts_img/git/how_to_use_git/Untitled (5).png)
     
     - Remote Tracking > origin/master 클릭 후 확인
     
-    ![Untitled](/assets/images/posts_img/eclipsgit/Untitled (6).png)
+    ![Untitled](/assets/images/posts_img/git/how_to_use_git/Untitled (6).png)
     
     - Source 가 origin/master로 변경 되었는지 확인한다.
     
-    ![Untitled](/assets/images/posts_img/eclipsgit/Untitled (7).png)
+    ![Untitled](/assets/images/posts_img/git/how_to_use_git/Untitled (7).png)
     
     - Branch name 은 <feature/개발할 내용> or <hotfix/오류 수정할 내용> 으로 적는다.
     - Configure upstream for push and pull 체크 해제 후 Finish 클릭
@@ -73,7 +73,7 @@ last_modified_at: 2023-07-13
 
 1. Git Staging 탭 클릭
     
-    ![Untitled](/assets/images/posts_img/eclipsgit/Untitled (8).png)
+    ![Untitled](/assets/images/posts_img/git/how_to_use_git/Untitled (8).png)
     
 2. Unstages Changes 에서 Staged Changes 로 반영할 소스만 + 버튼으로 옮긴다.
 3. Commit Message 는 다음과 같은 내용들로 분류를 달고 구체적으로 반영하는 내용을 적는다.
@@ -87,9 +87,9 @@ last_modified_at: 2023-07-13
 
 ## Push
 
-    ![Untitled](/assets/images/posts_img/eclipsgit/Untitled.jpeg)
+    ![Untitled](/assets/images/posts_img/git/how_to_use_git/Untitled.jpeg)
 
-    ![Untitled](/assets/images/posts_img/eclipsgit/Untitled (9).png)
+    ![Untitled](/assets/images/posts_img/git/how_to_use_git/Untitled (9).png)
 
 1. push 할 브랜치 선택([Local Branch 생성 후 개발] 에서 생성한 브랜치)
 2. Add Spec 
@@ -103,13 +103,13 @@ last_modified_at: 2023-07-13
 
 ## Merge Requests(develop)
 
-    ![Untitled](/assets/images/posts_img/eclipsgit/Untitled (10).png)
+    ![Untitled](/assets/images/posts_img/git/how_to_use_git/Untitled (10).png)
 
 - develop에 먼저 반영 및 테스트 진행
 
 ## Merge Requests(master)
 
-    ![Untitled](/assets/images/posts_img/eclipsgit/Untitled (11).png)
+    ![Untitled](/assets/images/posts_img/git/how_to_use_git/Untitled (11).png)
 
 1. Merge Requests 작성하기
 2. merge할 브랜치 선택([Local Branch 생성 후 개발] 에서 생성한 브랜치)
@@ -126,4 +126,4 @@ last_modified_at: 2023-07-13
 5. branch 삭제되지 않기 위해 체크 해제
 6. 코드리뷰 후 Merge를 한다.
     
-    ![Untitled](/assets/images/posts_img/eclipsgit/Untitled (12).png)
+    ![Untitled](/assets/images/posts_img/git/how_to_use_git/Untitled (12).png)

@@ -16,7 +16,7 @@ date: 2023-07-13
 last_modified_at: 2023-07-13
 ---
 
-![stack](/assets/images/posts_img/면접/현대HDS.png)
+![stack](/assets/images/posts_img/Interview/현대HDS.png)
  
 6/28(수) : 지원완료   
 7/5(수) 10:46 AM : 서류합격 이메일 받음   
