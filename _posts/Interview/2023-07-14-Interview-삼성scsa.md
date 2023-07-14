@@ -1,5 +1,5 @@
 ---
-title: "[Interview] 삼성SCSA"
+title: "[Interview] 삼성전자 DS SCSA전형 신입공채"
 excerpt: "면접 후기"
 
 categories:

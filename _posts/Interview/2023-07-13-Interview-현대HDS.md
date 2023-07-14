@@ -1,5 +1,5 @@
 ---
-title: "[Interview] 현대HDS SM 운영 경력직원 모집"
+title: "[Interview] 현대HDS SM 운영 경력직원 수시모집"
 excerpt: "면접 복기"
 
 categories:
